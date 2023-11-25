@@ -2,16 +2,19 @@
 title : "Contact Us"
 header_img: "https://source.unsplash.com/random?people&63"
 date: "2019-02-28"
-author: "ahKevinXy"
+author: "Lynn"
 ---
 
 
 ## Lab Address
-606, Building #7, Innovation Park
-School of Medicine, SUSTech
-Shenzhen, China, 518005
 
-## Ruilin Tian
-tianrl@sustech.edu.cn
+1014-1016, 10th Floor, Scientific Research Building
 
-tel: 0755-8801-8043
+Institute of Systems Medicine, Chinese Academy of Medical Sciences
+
+#100 Chongwen Road, Suzhou Industrial Park, Jiangsu Province, 215123
+
+## Lin Wang
+×××@pumc.edu.cn
+
+tel: 12345678
