@@ -44,39 +44,43 @@ unsafe = true
 [menu]
 [[menu.main]]
 identifier = "home"
-name = "home"
+name = "Home"
 url = "/"
 weight = -100
+
 [[menu.main]]
 identifier = "research"
-name = "research"
+name = "Research"
 url = "/research/"
 weight = 10
+
 [[menu.main]]
 identifier = "publications"
-name = "publications"
+name = "Publications"
 url = "/publications/"
 weight = 20
+
 [[menu.main]]
 identifier = "members"
-name = "members"
+name = "Members"
 url = "/members/"
 weight = 30
+
 [[menu.main]]
-identifier = "contract"
-name = "contract"
-url = "/contract/"
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
 weight = 50
 
 [[menu.main]]
 identifier = "opportunities"
-name = "opportunities"
+name = "Opportunities"
 url = "/opportunities/"
 weight = 60
 
 [[menu.main]]
 identifier = "news"
-name = "news"
+name = "News"
 url = "/news/"
 weight = 100
 
@@ -85,7 +89,7 @@ weight = 100
 
 [params]
 author = "Lynn"
-description = ""
+description = "Our laboratory website"
 keywords = "blog,developer,personal"
 img_home = "img/home-bg.jpg"
 img_404 = "img/404-bg.jpg"
@@ -111,6 +115,7 @@ bio = "lab website"
 #gitlab = "johndoe"
 #linkedin = "johndoe"
 rss = true
+
 #[params.social.mastodon]
 #weight = 56
 #icon = "fab fa-mastodon"
@@ -127,6 +132,7 @@ rss = true
 #url = "https://gohugo.io"
 
 # See https://giscus.app/
+
 #[params.giscus]
 #enable = true
 #repo = "roninro/hugo-theme-puppet"

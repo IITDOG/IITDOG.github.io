@@ -5,4 +5,4 @@ header_img: "https://source.unsplash.com/random?people&63"
 author: "ahKevinXy"
 ---
 
-# News from the ahKevinXy Lab
+# News from the LWang Lab
