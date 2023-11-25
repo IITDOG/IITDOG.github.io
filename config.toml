@@ -1,6 +1,6 @@
 baseURL = "https://iitdog.github.io/"
 
-title = "Lab"
+title = "OurLab"
 theme = "puppet"
 canonifyurls = true
 
