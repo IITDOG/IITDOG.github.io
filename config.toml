@@ -1,6 +1,6 @@
-baseURL = "https://goofish-shop.github.io/hugo-theme-puppet"
+baseURL = "https://iitdog.github.io/"
 
-title = "ahKevinXy"
+title = "Lab"
 theme = "puppet"
 canonifyurls = true
 
@@ -84,7 +84,7 @@ weight = 100
 
 
 [params]
-author = "ahKevinXy"
+author = "Lynn"
 description = ""
 keywords = "blog,developer,personal"
 img_home = "img/home-bg.jpg"
