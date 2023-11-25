@@ -67,8 +67,8 @@ url = "/members/"
 weight = 30
 
 [[menu.main]]
-identifier = "contract"
-name = "contract"
+identifier = "contact"
+name = "contact"
 url = "/contract/"
 weight = 50
 

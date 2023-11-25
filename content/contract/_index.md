@@ -14,7 +14,7 @@ Institute of Systems Medicine, Chinese Academy of Medical Sciences
 
 #100 Chongwen Road, Suzhou Industrial Park, Jiangsu Province, 215123
 
-## Ting Lin
+## Lin Wang
 
 <lynn_lting@pumc.edu.cn>
 
