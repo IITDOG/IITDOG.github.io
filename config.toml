@@ -68,7 +68,7 @@ weight = 30
 
 [[menu.main]]
 identifier = "contact"
-name = "contact"
+name = "Contact"
 url = "/contract/"
 weight = 50
 
