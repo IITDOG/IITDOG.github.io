@@ -2,7 +2,7 @@
 title: "LWang Lab"
 description: "Hugo, the world's fastest framework for building websites"
 date: "2019-02-28"
-author: "ahKevinXy"
+author: "Lynn"
 header_img: "https://source.unsplash.com/random?people&63"
 ---
 
