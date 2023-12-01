@@ -3,7 +3,7 @@ title: "LWang Lab"
 description: "Hugo, the world's fastest framework for building websites"
 date: "2019-02-28"
 author: "Lynn"
-header_img: "https://source.unsplash.com/random?people&63"
+header_img: "/header_img/333.jpg"
 ---
 
 ## Welcome to LWang Lab in ISM, PUMC/CAMS !
