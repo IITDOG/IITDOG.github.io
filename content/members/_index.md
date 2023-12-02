@@ -12,7 +12,7 @@ author: "ahKevinXy"
 
 <tr>
     <td> </td>
-    <td> <div> Ruilin Tian (田瑞琳)  </div> <div>tianrl@sustech.edu.cn </div></td>
+    <td> <div> Ruilin Tian  </div> <div>tianrl@sustech.edu.cn </div></td>
     <td> Assistant Professor, Principal Investigator </td>
     <td>Postdoc and PhD in Biophysics, University of California, San Francisco, CA, USA. </td>
     <td>Postdoc and PhD in Biophysics, University of California, San Francisco, CA, USA. </td>
@@ -24,7 +24,7 @@ author: "ahKevinXy"
 
 <tr>
     <td> </td>
-    <td> <div> Ruilin Tian (田瑞琳)  </div> <div>tianrl@sustech.edu.cn </div></td>
+    <td> <div> Ruilin Tian   </div> <div>tianrl@sustech.edu.cn </div></td>
     <td> Assistant Professor, Principal Investigator </td>
     <td>Postdoc and PhD in Biophysics, University of California, San Francisco, CA, USA. </td>
     <td>Postdoc and PhD in Biophysics, University of California, San Francisco, CA, USA. </td>

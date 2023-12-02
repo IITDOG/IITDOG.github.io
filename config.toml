@@ -91,7 +91,7 @@ weight = 100
 author = "Lynn"
 description = "Our laboratory website"
 keywords = "blog,developer,personal"
-img_home = "/header_img/333.jpg"
+img_home = "img/home-bg.jpg"
 img_404 = "img/404-bg.jpg"
 
 useFaviconGenerator = true
